@@ -1,0 +1,7 @@
+[autorun]
+label = GUIA
+open = autorun.exe [open][1] "GUIA.exe"
+icon = autorun.exe
+
+[Installed]
+ProductCode = {7B584905-476A-499E-9C66-EAEC0802434C}
